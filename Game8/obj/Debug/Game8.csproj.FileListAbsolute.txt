@@ -1,0 +1,33 @@
+C:\Users\Мой дом\source\repos\Game8\Game8\bin\Debug\Game8.exe.config
+C:\Users\Мой дом\source\repos\Game8\Game8\bin\Debug\Game8.exe
+C:\Users\Мой дом\source\repos\Game8\Game8\bin\Debug\Game8.pdb
+C:\Users\Мой дом\source\repos\Game8\Game8\obj\Debug\Game8.csprojAssemblyReference.cache
+C:\Users\Мой дом\source\repos\Game8\Game8\obj\Debug\Game8.Form1.resources
+C:\Users\Мой дом\source\repos\Game8\Game8\obj\Debug\Game8.Form2.resources
+C:\Users\Мой дом\source\repos\Game8\Game8\obj\Debug\Game8.Properties.Resources.resources
+C:\Users\Мой дом\source\repos\Game8\Game8\obj\Debug\Game8.csproj.GenerateResource.cache
+C:\Users\Мой дом\source\repos\Game8\Game8\obj\Debug\Game8.csproj.CoreCompileInputs.cache
+C:\Users\Мой дом\source\repos\Game8\Game8\obj\Debug\Game8.exe
+C:\Users\Мой дом\source\repos\Game8\Game8\obj\Debug\Game8.pdb
+F:\Game8\Game8\bin\Debug\Game8.exe.config
+F:\Game8\Game8\bin\Debug\Game8.exe
+F:\Game8\Game8\bin\Debug\Game8.pdb
+F:\Game8\Game8\obj\Debug\Game8.csprojAssemblyReference.cache
+F:\Game8\Game8\obj\Debug\Game8.Form1.resources
+F:\Game8\Game8\obj\Debug\Game8.Form2.resources
+F:\Game8\Game8\obj\Debug\Game8.Properties.Resources.resources
+F:\Game8\Game8\obj\Debug\Game8.csproj.GenerateResource.cache
+F:\Game8\Game8\obj\Debug\Game8.csproj.CoreCompileInputs.cache
+F:\Game8\Game8\obj\Debug\Game8.exe
+F:\Game8\Game8\obj\Debug\Game8.pdb
+F:\Универ\Game8\Game8\bin\Debug\Game8.exe.config
+F:\Универ\Game8\Game8\bin\Debug\Game8.exe
+F:\Универ\Game8\Game8\bin\Debug\Game8.pdb
+F:\Универ\Game8\Game8\obj\Debug\Game8.csprojAssemblyReference.cache
+F:\Универ\Game8\Game8\obj\Debug\Game8.Form1.resources
+F:\Универ\Game8\Game8\obj\Debug\Game8.Form2.resources
+F:\Универ\Game8\Game8\obj\Debug\Game8.Properties.Resources.resources
+F:\Универ\Game8\Game8\obj\Debug\Game8.csproj.GenerateResource.cache
+F:\Универ\Game8\Game8\obj\Debug\Game8.csproj.CoreCompileInputs.cache
+F:\Универ\Game8\Game8\obj\Debug\Game8.exe
+F:\Универ\Game8\Game8\obj\Debug\Game8.pdb
